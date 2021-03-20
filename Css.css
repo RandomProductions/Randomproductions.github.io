@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: darkgrey;
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  margin-left: 1000px;
+  font-size: 50px;
+}
+
+h3 {
+  margin-left: 965px;
+  font-size: 25
+}
